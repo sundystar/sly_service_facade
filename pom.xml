@@ -10,6 +10,13 @@
 		<artifactId>sly_middle_web</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
+  	
+  	<!--spring-data-elasticsearch -->
+		<dependency>
+		    <groupId>org.springframework.data</groupId>
+		    <artifactId>spring-data-elasticsearch</artifactId>
+		    <version>3.0.0.RELEASE</version>
+		</dependency> 
   </dependencies>
   
 </project>
